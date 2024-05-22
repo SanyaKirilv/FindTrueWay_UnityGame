@@ -1,0 +1,270 @@
+{
+    "Player" : {
+        "Name" : "",
+        "Photo" : "",
+        "Registred" : false,
+        "RegistrationDate" : "0/0/2000"
+    },
+    "Settings" : {
+        "Theme" : "DarkTheme",
+        "Language" : "Russian",
+        "Audio" : true,
+        "Ads" : true
+    },
+    "Resources" : {
+        "Energy" : 10,
+        "Coins" : 0,
+        "ElapsedTime" : 0
+    },
+    "ExitTime": {
+        "Year": 0,
+        "Month": 0,
+        "Day": 0,
+        "Hours": 0,
+        "Minutes": 0,
+        "Seconds": 0
+      },
+    "Games":
+    [
+        {
+            "Name" : "OneStroke",
+            "Levels" : 
+            [
+                {
+                    "Index" : "1",
+                    "State" : "Active",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "2",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "3",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "4",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "5",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "6",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "7",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "8",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "9",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                }
+            ]
+        },
+        {
+            "Name" : "Fill",
+            "Levels" : 
+            [
+                {
+                    "Index" : "1",
+                    "State" : "Active",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "2",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "3",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "4",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "5",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "6",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "7",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "8",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "9",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                }
+            ]
+        },
+        {
+            "Name" : "Pipes",
+            "Levels" : 
+            [
+                {
+                    "Index" : "1",
+                    "State" : "Active",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "2",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "3",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "4",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "5",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "6",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "7",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "8",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "9",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                }
+            ]
+        },
+        {
+            "Name" : "NumberLink",
+            "Levels" : 
+            [
+                {
+                    "Index" : "1",
+                    "State" : "Active",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "2",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "3",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "4",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "5",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "6",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "7",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "8",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                },
+                {
+                    "Index" : "9",
+                    "State" : "Blocked",
+                    "Stars" : 0,
+                    "Time" : 0
+                }
+            ]
+        }
+    ]
+}

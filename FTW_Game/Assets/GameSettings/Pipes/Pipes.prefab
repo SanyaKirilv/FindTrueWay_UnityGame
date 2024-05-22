@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8610624573842974974
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7830186217802612342}
+  - component: {fileID: 761978942053769595}
+  m_Layer: 0
+  m_Name: Pipes
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7830186217802612342
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8610624573842974974}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &761978942053769595
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8610624573842974974}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 892cf9f330e0843a9945367662b7d7e2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: Pipes
+  Prefab: {fileID: 1388974530482065799, guid: 697dc8ab01710400da6c58bfd7c58b11, type: 3}
+  Levels:
+  - {fileID: 11400000, guid: 7b3e7850a2087594dbf87b441bfb5c67, type: 2}
+  - {fileID: 11400000, guid: 8bb86a26bd8894b9ca4931826a4bb255, type: 2}
+  - {fileID: 11400000, guid: 8dfb172a295974622a5535026be21ba8, type: 2}
+  - {fileID: 11400000, guid: e1f62009e9b57439783252fa9bbf1b84, type: 2}
+  - {fileID: 11400000, guid: 37fa4c03331d84ed98113bac67cf43da, type: 2}
+  - {fileID: 11400000, guid: f1d8c384d6d87429ea2b497a32f19b21, type: 2}
+  - {fileID: 11400000, guid: a7b1dc2d1765c458cb5729c2ce22064b, type: 2}
+  - {fileID: 11400000, guid: 86ff193bbef0d4db0a3f7a64d21a0163, type: 2}
+  - {fileID: 11400000, guid: 158d276914a53455b9769db49550296a, type: 2}

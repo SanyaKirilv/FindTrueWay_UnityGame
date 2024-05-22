@@ -1,0 +1,11 @@
+# ninja log v5
+2	202	1716324903513479371	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	f4bfe47f0cd4aa2
+202	338	1716324903619793591	/Users/sanyakirilv/Documents/Projects/FindTrueWay/FTW_Game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/74171z3z/obj/armeabi-v7a/libswappywrapper.so	7090085f4cbfa3be
+1	687	1716324903991081445	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	f7bd249faee0fbc4
+2	737	1716324904045863640	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	3cb8ef0de743e83a
+1	792	1716324904103498294	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	4d8a7c1bbda6e378
+0	801	1716324904110539255	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	be17bc51a0219087
+2	833	1716324904143706064	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	d545b9b49e2c835d
+1	945	1716324904256250371	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	2c580fb52fd46cbd
+0	1020	1716324904330729950	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	b48c623a2f555d18
+1020	1119	1716324904407367030	/Users/sanyakirilv/Documents/Projects/FindTrueWay/FTW_Game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/74171z3z/obj/armeabi-v7a/libgame.so	7bd781014e39f460
